@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Lima!
 
-## 💻 Analista de Suporte em Transição de carreira para Desenvolvedor Web/Mobile
+## 💻 Analista de Suporte em Transição para Desenvolvedor Web/Mobile
 
 Atualmente trabalho como Analista de Suporte, mas estou em plena transição de carreira para o desenvolvimento de software, com foco em aplicações web fullstack.
 
@@ -35,6 +35,9 @@ Meu próximo passo será o desenvolvimento mobile com React Native!
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 🔭 Projetos Destacados
+
+### [Sankhya-React](https://github.com/rafaelclima/sankhya-react)
+Bundle React para integração com o ERP Sankhya-Om, facilitando o desenvolvimento de aplicações modernas e eficientes dentro do ambiente Sankhya. Esta solução acelera significativamente o desenvolvimento e moderniza a experiência do usuário no ERP.
 
 ### [Relatório de Chamadas](https://github.com/rafaelclima/relatoriochamadas)
 Aplicação web que lê arquivos CSV gerados pelo Asterisk e gera relatórios detalhados de chamadas. Desenvolvido com HTML, CSS e JavaScript puro.
