@@ -39,14 +39,14 @@ Meu próximo passo será o desenvolvimento mobile com React Native!
 ### [Sankhya-React](https://github.com/rafaelclima/sankhya-react)
 Bundle React para integração com o ERP Sankhya-Om, facilitando o desenvolvimento de aplicações modernas e eficientes dentro do ambiente Sankhya. Esta solução acelera significativamente o desenvolvimento e moderniza a experiência do usuário no ERP.
 
+### [Daily Diet API](https://github.com/rafaelclima/daily_diet_api)
+API RESTful desenvolvida com Node.js, Fastify, Zod e SQLite para controle de dieta diária. Construída com foco em performance e validação de dados, esta API está pronta para integração com aplicações frontend.
+
 ### [Relatório de Chamadas](https://github.com/rafaelclima/relatoriochamadas)
 Aplicação web que lê arquivos CSV gerados pelo Asterisk e gera relatórios detalhados de chamadas. Desenvolvido com HTML, CSS e JavaScript puro.
 
 ### [TechStock](https://github.com/rafaelclima/techstock)
 Sistema de controle de estoque em React com dashboard e CRUD completo de produtos.
-
-### [Sorteador](https://github.com/rafaelclima/Sorteador)
-Aplicação para sorteios em eventos corporativos.
 
 ### [DevCurrency](https://github.com/rafaelclima/devCurrency)
 Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símbolo.
