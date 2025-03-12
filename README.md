@@ -74,15 +74,6 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
   />
 </div>
 
-<!-- GitHub Commit Activity -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelclima&theme=dracula&hide_border=true&area=true" 
-    alt="GitHub Activity Graph" 
-    width="100%"
-  />
-</div>
-
 ## 📫 Vamos nos conectar!
 Estou sempre aberto a novas oportunidades, colaborações e troca de conhecimentos.
 Sinta-se à vontade para entrar em contato através das minhas redes sociais.
