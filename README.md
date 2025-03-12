@@ -80,3 +80,8 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
 ## 📫 Vamos nos conectar!
 Estou sempre aberto a novas oportunidades, colaborações e troca de conhecimentos.
 Sinta-se à vontade para entrar em contato através das minhas redes sociais.
+---
+<div align="center">
+  <p>Feito com ❤️ por Rafael Lima</p>
+  <p>Créditos: <a href="https://shields.io">Shields.io</a> e <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></p>
+</div>
