@@ -61,7 +61,8 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula&hide=contribs,prs&custom_title=GitHub%20Stats" 
     alt="GitHub Stats" 
-    width="400" 
+    width="400"
+    height="167"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula&hide=html,css&custom_title=Top%20Langs" 
