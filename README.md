@@ -1,6 +1,6 @@
-<div align="center">
+<div>
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Rafael+Lima!;Hello%2C+I'm+Rafael+Lima!;Hi+there%2C+I'm+Rafael!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=750&color=F7F7F7&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Rafael+Lima!;Hello%2C+I'm+Rafael+Lima!;Hi+there%2C+I'm+Rafael!" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -8,7 +8,7 @@
 
 Atualmente trabalho como Analista de Suporte, mas estou em plena transição de carreira para o desenvolvimento de software, com foco em aplicações web fullstack.
 
-<div align="center">
+<div>
   <a href="https://br.linkedin.com/in/rafaelclima" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
@@ -28,31 +28,28 @@ Meu próximo passo será o desenvolvimento mobile com React Native!
 
 ## 🛠️ Habilidades Técnicas
 
-<div align="center">
-  
-  ### Frontend:
-  <div style="display: inline-block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </div>
-  
-  ### Backend:
-  <div style="display: inline-block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" alt="fastify" width="40" height="40"/>
-    <img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/>
-  </div>
-  
-  ### Banco de Dados:
-  <div style="display: inline-block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </div>
+### Frontend:
+<div style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</div>
+
+### Backend:
+<div style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" alt="fastify" width="40" height="40"/>
+  <img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/>
+</div>
+
+### Banco de Dados:
+<div style="display: inline-block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </div>
 
 ## 🔭 Projetos Destacados
@@ -74,7 +71,7 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula"/>
 </div>
