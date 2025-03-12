@@ -72,6 +72,7 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
     width="400" 
     height="167" 
   />
+  ![Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelclima&theme=dracula)
 </div>
 
 <!-- GitHub Activity Graph -->
