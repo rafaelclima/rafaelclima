@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-## 💻 Analista de Suporte em Transição para Desenvolvedor
+## 💻 Analista de Suporte em Transição para Desenvolvedor Web/Mobile
 
 Atualmente trabalho como Analista de Suporte, mas estou em plena transição de carreira para o desenvolvimento de software, com foco em aplicações web fullstack.
 
@@ -57,9 +57,10 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
 
 ## 📊 Estatísticas GitHub
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula" alt="Rafael's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula" alt="Top Langs" width="48%" />
+</div>
 
 ## 📫 Vamos nos conectar!
 Estou sempre aberto a novas oportunidades, colaborações e troca de conhecimentos.
