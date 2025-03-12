@@ -1,6 +1,7 @@
 <div align="center">
   <h1>
-    👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=750&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Rafael+Lima!;Hello%2C+I'm+Rafael+Lima!;Hi+there%2C+I'm+Rafael!" alt="Typing SVG" />
+    <span style="display: inline-block; vertical-align: middle;">👋</span> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=750&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Rafael+Lima!;Hello%2C+I'm+Rafael+Lima!;Hi+there%2C+I'm+Rafael!" alt="Typing SVG" style="vertical-align: middle;" />
   </h1>
 </div>
 
