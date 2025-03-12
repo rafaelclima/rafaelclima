@@ -70,6 +70,11 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
     width="400" 
     height="167" 
   />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelclima&theme=dracula" 
+    alt="GitHub Streak" 
+    width="400"
+  />
 </div>
 
 ## 📫 Vamos nos conectar!
