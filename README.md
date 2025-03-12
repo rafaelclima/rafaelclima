@@ -10,7 +10,7 @@ Atualmente trabalho como Analista de Suporte, mas estou em plena transição de 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelclima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soueu_rafaellima)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelclima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelclima.ti@gmail.com)
 
 ## 🚀 Minha Jornada de Desenvolvimento
 
@@ -58,8 +58,8 @@ Aplicação em React que lista as top 20 criptomoedas e permite busca pelo símb
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula" alt="Rafael's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelclima&show_icons=true&theme=dracula" alt="Rafael's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelclima&layout=compact&theme=dracula" alt="Top Langs" width="400" />
 </div>
 
 ## 📫 Vamos nos conectar!
