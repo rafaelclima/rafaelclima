@@ -14,9 +14,7 @@ Atualmente trabalho como Analista de Suporte, mas estou em plena transição de 
 
 ## 🚀 Minha Jornada de Desenvolvimento
 
-Comecei minha jornada com HTML, CSS e JavaScript, e após consolidar os fundamentos, avancei para React no frontend. Atualmente estou aprofundando meus conhecimentos em backend com Node.js e iniciando estudos em NestJS.
-
-Meu próximo passo será o desenvolvimento mobile com React Native!
+Comecei minha jornada com HTML, CSS e JavaScript e, após consolidar os fundamentos, avancei para React. Após criar alguns projetos frontend, comecei os estudos no backend. Pela familiaridade adiquirida no desenvolvimento frontend, escolhi Javascript para começar no backend, utilizando NodeJS e posteriormente o Fastify e, enquanto estudava essa stack, tive a oportunidade de ser selecionado para participar da turma ONE (Oracle Next One), especializado em backend, onde fiz parte da turma da Alura de backend Java e Spring Boot. Foi uma boa oportunidade para adiquirir bons fundamentos sobre a línguagem Java e desenvolvimento de API usando o framework Spring boot.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -29,10 +27,10 @@ Meu próximo passo será o desenvolvimento mobile com React Native!
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### Banco de Dados:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
