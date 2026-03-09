@@ -39,6 +39,12 @@ Comecei minha jornada com HTML, CSS e JavaScript e, após consolidar os fundamen
 
 ## 🔭 Projetos Destacados
 
+### [Alzilanche](https://github.com/rafaelclima/alzilanche)
+Solução digital desenvolvida com Java, Spring Boot, React Native e PostgreSQL para gestão de pedidos e cardápio. Construída com foco em uma experiência mobile-first e eficiência operacional, esta aplicação está pronta para automação de fluxos de atendimento.
+
+### [Hoje a festa é nossa - API](https://github.com/rafaelclima/hojeafestaenossa)
+Plataforma digital desenvolvida com Java, Spring Boot e PostgreSQL para compartilhamento de mídia em tempo real em eventos. Construída com foco em escalabilidade e interatividade, esta aplicação está pronta para a gestão dinâmica de conteúdos visuais.
+
 ### [Sankhya-React](https://github.com/rafaelclima/sankhya-react)
 Bundle React para integração com o ERP Sankhya-Om, facilitando o desenvolvimento de aplicações modernas e eficientes dentro do ambiente Sankhya. Esta solução acelera significativamente o desenvolvimento e moderniza a experiência do usuário no ERP.
 
